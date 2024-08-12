@@ -32,3 +32,6 @@ The output of the code is:
 ![Screenshot 2024-08-12 062728](https://github.com/user-attachments/assets/1f2271e9-7fe3-4ea5-be59-4d16be85158e)
 ![Screenshot 2024-08-12 065409](https://github.com/user-attachments/assets/70170bd9-ab85-495d-b9ab-0b7b3efb1f2c)
 
+### Conclusion:
+We learnt about different primitive data types. 
+
