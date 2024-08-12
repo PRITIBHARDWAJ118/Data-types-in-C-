@@ -1,5 +1,5 @@
 # Data types in C++ 
-##AIM: This repository contains information about the basic data types in C++ and their respective sizes. 
+## AIM: This repository contains information about the basic data types in C++ and their respective sizes. 
 ## Theory:
 Primitive data types are the most fundamental data types that C++ offers. They serve to specify the kind of variable or return value of a function. In C++, the primary primitive data types are:
 1. int: Used to store integers.
