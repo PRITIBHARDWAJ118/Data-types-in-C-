@@ -29,7 +29,15 @@ In C++, the sizeof function is used to determine the size (in bytes) of a data t
 8. sizeof(bool): Returns the size of a bool type in bytes.
 ## Output:
 The output of the code is:
+
+1. Size of data types
+
+
 ![Screenshot 2024-08-12 062728](https://github.com/user-attachments/assets/1f2271e9-7fe3-4ea5-be59-4d16be85158e)
+
+2. Storage class
+
+
 ![Screenshot 2024-08-12 065409](https://github.com/user-attachments/assets/70170bd9-ab85-495d-b9ab-0b7b3efb1f2c)
 
 ### Conclusion:
